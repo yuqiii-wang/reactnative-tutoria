@@ -1,0 +1,12 @@
+{
+  "name": "reactnative-tutorial",
+  "displayName": "reactnative-tutorial",
+  "expo": {
+    "name": "reactnative-tutorial",
+    "slug": "reactnative-tutorial",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
